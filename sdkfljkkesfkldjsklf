@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kentatv1412/XEROX-HUP/refs/heads/main/XEROX%20HUP%20SOME%20TOWN.lua?token=GHSAT0AAAAAADYAW6VZE47RWUCF7WDFJDVK2NZAZUQ"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kentatv1412/XEROXHUP/refs/heads/main/XEROX%20HUP%20SOME%20TOWN.lua"))()
